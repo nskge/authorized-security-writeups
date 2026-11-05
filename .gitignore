@@ -1,0 +1,9 @@
+# Local and sensitive artifacts
+original-evidence/
+private/
+*.har
+*.log
+*.token
+.env
+.env.*
+!.env.example
