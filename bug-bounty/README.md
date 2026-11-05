@@ -5,5 +5,6 @@ Reports from authorized assessments or explicitly scoped programs. Targets, peop
 | Type | Case study | Status |
 |---|---|---|
 | Stored XSS | [Firebase-based web application](finds/firebase-stored-xss/README.md) | Confirmed; published anonymously |
+| Open redirect | [Redirect validation mismatch](finds/redirect-validation-mismatch/README.md) | Historical triaged / open status; anonymized summary |
 
 See the [disclosure policy](../DISCLOSURE.md) for what is not published.
