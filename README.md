@@ -8,6 +8,7 @@ Security lab writeups, authorized assessment reports, and study notes. Each entr
 |---|---|
 | [Labs](labs/README.md) | PortSwigger authentication, cookies, API testing, and HTB Orion |
 | [Findings](bug-bounty/README.md) | Anonymized Stored XSS assessment and redirect report |
+| [Malware Analysis](malware-analysis/README.md) | Static XWorm/Donut analysis with sanitized indicators; no live samples |
 | [CTFs](ctfs/README.md) | Berlim: FTP, Base64, and CMS enumeration notes |
 | [CVEs](cves/README.md) | Future public CVE analyses |
 | [Templates](templates/README.md) | Reusable technical reporting template |
